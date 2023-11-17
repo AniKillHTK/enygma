@@ -10,7 +10,7 @@ main{
 }
 body
 {
-    background-image: linear-gradient(to right, rgb(0, 0, 0) 20%, rgb(48, 4, 48), blue);
+    background-image: linear-gradient(to right, rgb(0, 0, 0) 20%, rgb(48, 4, 48), rgb(54, 54, 198));
     text-align: center;
     margin: auto;
 
